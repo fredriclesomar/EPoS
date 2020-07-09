@@ -1,6 +1,7 @@
 ## Laravel
 
 Sales of Point Framework Laravel with Infyom Laravel Generator (custom login)
+Minimal PHP 7.1 > requirement PHP 7.2.32
 
 How to use:
 - Download repository and extracted or clone the repository
