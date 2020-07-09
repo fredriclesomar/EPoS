@@ -5,11 +5,11 @@ Sales of Point Framework Laravel with Infyom Laravel Generator (custom login)
 How to use:
 - Download repository and extracted or clone the repository
 	```sh
-	$ git clone https://github.com/fredriclesomar/EcommercePOS.git
+	$ git clone https://github.com/fredriclesomar/EPoS.git
 	```
 - Running composer
 	```sh
-	$ cd EcommercePOS
+	$ cd EPoS
 	$ composer install
 	```
 - Setting .env dan key application
